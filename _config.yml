@@ -1,4 +1,3 @@
-layout_spectrum: 0.9492261472623795
 typography_spectrum: 0.5686695876065642
 color:
   brandStrength: 0.28299706685356796
@@ -6,9 +5,11 @@ color:
   saturation: 0.8273360333405435
   rhythmicContrast: 0.9134905550163239
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.9492261472623795
 name: valentinheyde
+title: Facilitator & Consultant
