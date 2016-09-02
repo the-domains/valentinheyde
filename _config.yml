@@ -1,27 +1,14 @@
-title: Facilitator & Consultant
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+layout_spectrum: 0.04497872409410775
+typography_spectrum: 0.9312165153678507
 color:
-  saturation: 0.7857143
-  brandStrength: 0.282997066853568
-  lightness: 0.849624
+  brandStrength: 0.7895878558047116
+  lightness: 0.40700319432653487
+  saturation: 0.3854178765323013
+  rhythmicContrast: 0.9910654716659337
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.2681704
-typography_spectrum: 0.6434837
-layout_spectrum: 1
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: valentinheyde
